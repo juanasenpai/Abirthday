@@ -6,7 +6,7 @@ var config = {
         "送给Anita Chiu Chiu",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "我親愛的媽媽",  // 同上...
         "今天是你的生日",
-        "这是您的第53個生日",
+        "這是您的第53個生日",
         "今年一樣不可以入侵我的房間",
         "祝您越來越漂亮",
         "祝您越來越美麗",
@@ -26,13 +26,13 @@ var config = {
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
+        turn_on: "開始",
+        play: "音樂",
         bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "好像少點東西",
         cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        light_candle: "蠟燭？",
+        wish_message: "生日快樂！",
         story: "A MESSAGE FOR YOU",
     }
 };
